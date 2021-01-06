@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+    font-family: 'Bebas Neue', cursive
+}
+.p-font{
+    font-family: 'Roboto', sans-serif;
+color: dimgray;
+line-height: 20px;
+text-align: justify;
+}
+.blue-highlight{
+    color: blueviolet;
+    column-width: 0px;
+}
+.orange-highlight{
+    color: tomato;
+    
+}
+.header-design{
+    
+    height: 49%;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 80px;
+}
+.top-side{
+    margin: 100;
+    border-top: 60px solid rebeccapurple;
+    border-right: 5px solid rebeccapurple;
+    border-width: 100%;
+    height: 500px;
+    padding-bottom:50px;
+    
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-top: 0%;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+    height: 20;
+    margin-left: 5px;
+  margin-bottom: 0px;
+    
+}
+
+ul{
+    text-align: right;
+  list-style-type: none;
+  margin-right: 15px;
+  margin-top: 50px;
+  padding: 9px;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  
+}
+li{
+    display: inline;
+    text-decoration: none;
+    background-image: linear-gradient(0deg,lightsalmon,tomato);
+    padding: 5px 10px;
+    border-radius: 2px;
+}
+.link-button{
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 20px 50px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+.about-blue{
+    font-size: 40px;
+}
+.cv-download{
+  padding: 20px 15px;
+  cursor: pointer;
+  font-size: 20px;
+  
+}
